@@ -102,6 +102,6 @@ I'm a **BackEnd & RPA Developer** at **Patrimar Engenharia** in Belo Horizonte, 
 ---
 
 <p align="center">
-  <i>⭐ From <a href="https://github.com/renanmgx">renanmgx</a> with ❤️ from Belo Horizonte, Brasil 🇧🇷</i>
+  <i>⭐ From <a href="https://github.com/renanmgx">renanmgx</a> from Belo Horizonte, Brasil 🇧🇷</i>
 </p>
 
